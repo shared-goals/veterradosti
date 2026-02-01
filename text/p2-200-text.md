@@ -870,7 +870,7 @@ AsciiDoc представляет собой смесь скриптов Ruby и
 - Исходник,
 - Музыка сопровождения чтения.
 
-Каждый тип теперь имеет [свой формат отображения и цвет](https://github.com/bongiozzo/whattodo/blob/master/text/ru/assets/css/extra.css) и наследуется из [общего стиля Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types).
+Каждый тип теперь имеет [свой формат отображения и цвет](https://github.com/bongiozzo/whattodo/blob/master/text/assets/css/extra.css) и наследуется из [общего стиля Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types).
 
 Благодаря этому причесыванию я осознал, что у меня в части цитат нет ссылок на высказывания авторов.
 Полез перепроверять и нашёл полную версию цитаты Аристотеля, от которой [я в начале отталкивался, как от неприемлемой для себя](p1-020-call.md#sense_of_awe).

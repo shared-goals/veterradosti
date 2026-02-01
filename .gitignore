@@ -4,5 +4,3 @@ build/
 .DS_Store
 # Build artifacts - generated files, not source
 *.epub
-text/ru/assets/*.txt
-text/ru/assets/*.epub

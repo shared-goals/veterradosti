@@ -27,9 +27,9 @@ jobs:
       - uses: shared-goals/text-forge@main
         with:
           mkdocs_config: mkdocs.yml
-          docs_dir: text/ru
-          site_dir: public/ru
-          cover_image: text/ru/img/cover.jpg
+          docs_dir: text
+          site_dir: public
+          cover_image: text/img/cover.jpg
 
       # Build verification artifact (works on any branch)
       - uses: actions/upload-artifact@v4

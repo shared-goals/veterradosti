@@ -1,13 +1,13 @@
 # Copilot instructions (whattodo)
 
 ## Big picture
-- This repo is a **content repo**: `mkdocs.yml` + docs in `text/ru/`.
+- This repo is a **content repo**: `mkdocs.yml` + docs in `text/`.
 - All tooling (Python deps, scripts, build logic) lives in the `text-forge/` git submodule.
 - The build pipeline is intentionally staged (implemented in `text-forge/`):
-  1) **Combine** chapters from `mkdocs.yml` nav → `build/text_combined.txt` via `text-forge/scripts/mkdocs-combine.py`
+  1) **Combine** chapters from `mkdocs.yml` nav → `build/text_combined.md` via `text-forge/scripts/mkdocs-combine.py`
   2) **Normalize PyMdown syntax** → Pandoc-compatible markdown via `text-forge/scripts/pymdown-pandoc.lua` → `build/pandoc.md`
   3) **Render EPUB** via `pandoc` using `text-forge/epub/book_meta.yml` (+ placeholders filled by git) and `text-forge/epub/epub.css` → `build/text_book.epub`
-  4) **Publish site**: copy EPUB + combined text into `text/ru/assets/`, then `mkdocs build` into `public/ru/`
+  4) **Publish site**: `mkdocs build` into `public/`, then copy EPUB + combined text to `public/` root
 
 ## Common workflows (use these commands)
 - Build everything (EPUB + site): `make` or `make all`
@@ -17,7 +17,7 @@
 - Clean outputs: `make clean`
 
 ## Project conventions that matter
-- **Docs source of truth**: `text/ru/` (this is `docs_dir` in `mkdocs.yml`). Avoid editing generated outputs in `build/` or `public/`.
+- **Docs source of truth**: `text/` (this is `docs_dir` in `mkdocs.yml`). Avoid editing generated outputs in `build/` or `public/`.
 - **Navigation drives ordering**: `mkdocs.yml` `nav:` is used both for the website and for EPUB/chapter ordering.
 - **Anchors/links in the combined markdown** (implemented in `text-forge/scripts/mkdocs-combine.py`):
   - Each file gets a stable top anchor derived from its path: `#p2-170-opensource-md` style.
@@ -39,4 +39,4 @@
 ## When changing the build pipeline
 - If you change `text-forge/scripts/mkdocs-combine.py` or `text-forge/scripts/pymdown-pandoc.lua`, update/extend fixtures in `text-forge/scripts/fixtures/` and run tests from the submodule:
   - `make -C text-forge CONTENT_ROOT=$PWD test`
-- Keep behavior compatible with existing `/// ... ///` blocks used across `text/ru/*.md`.
+- Keep behavior compatible with existing `/// ... ///` blocks used across `text/*.md`.

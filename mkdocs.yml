@@ -3,7 +3,7 @@
 # -----------------
 site_name: 'Общие цели'
 site_description: 'Что мне делать? :-) Текст в концепции «Общие Цели»'
-site_url: https://text.sharedgoals.ru/ru/
+site_url: https://text.sharedgoals.ru/
 site_author: Serge Polyakov
 copyright: Shared Goals, 2020-....
 
@@ -11,13 +11,13 @@ copyright: Shared Goals, 2020-....
 # NOTE: намеренно закреплено за названием default branch.
 repo_url: https://github.com/bongiozzo/whattodo
 repo_name: bongiozzo/whattodo
-edit_uri: blob/master/text/ru/
+edit_uri: blob/master/text/
 
 # -----------------
 # Пути и формат URL
 # -----------------
-docs_dir: text/ru
-site_dir: public/ru
+docs_dir: text
+site_dir: public
 use_directory_urls: true
 
 # ---------------------
@@ -138,7 +138,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.snippets:
-      base_path: text/ru/assets
+      base_path: text/assets
       check_paths: true
   - pymdownx.tabbed:
       alternate_style: true
@@ -156,9 +156,9 @@ plugins:
       nobr_emoticons_enabled: true
       downloads_enabled: true
       # Shared Perplexity URL - создайте поисковый запрос вида:
-      # "https://www.perplexity.ai/search/new?q=Прочти https://text.sharedgoals.ru/ru/assets/whattodo_full.md и ответь на вопросы"
+      # "https://www.perplexity.ai/search/new?q=Прочти https://text.sharedgoals.ru/whattodo_full.md и ответь на вопросы"
       # Затем нажмите "Share" и скопируйте ссылку сюда
-      ai_readable_perplexity_query: "https://www.perplexity.ai/search/new?q=Прочти https://text.sharedgoals.ru/ru/whattodo_full.md и ответь на вопросы"
+      ai_readable_perplexity_query: "https://www.perplexity.ai/search/new?q=Прочти https://text.sharedgoals.ru/whattodo_full.md и ответь на вопросы"
       # Данные для EPUB книги
       epub_title: Что мне делать? :-)
       epub_subtitle: Текст в концепции «Общие Цели»
@@ -190,7 +190,7 @@ plugins:
   - git-committers:
       repository: bongiozzo/whattodo
       branch: master
-      docs_path: text/ru/
+      docs_path: text/
       enabled: !ENV ["MKDOCS_GIT_COMMITTERS_ENABLED", true]
 
 extra:

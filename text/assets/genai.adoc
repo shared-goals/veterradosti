@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 ++++
 
-image::https://text.sharedgoals.ru/ru/img/qrchimpX256.png[]
+image::https://text.sharedgoals.ru/img/qrchimpX256.png[]
 
 [.notes]
 --
@@ -99,12 +99,12 @@ image::https://text.sharedgoals.ru/ru/img/qrchimpX256.png[]
 == Сергей Поляков
 
 [%step]
-* https://text.sharedgoals.ru/ru/p1-040-unhappiness#money_and_business[1997: Webzavod]
-* https://text.sharedgoals.ru/ru/p1-040-unhappiness#money_and_enterprise[2007: Microsoft]
-* https://text.sharedgoals.ru/ru/p2-180-sharedgoals#cross_culture_export[2016: Ростех – Russian IT Export]
-* https://text.sharedgoals.ru/ru/p2-130-local#mini_app_vkontakte[2020: Цифровой Петербург]
-* https://text.sharedgoals.ru/ru/[Что мне делать? :-)]
-* https://text.sharedgoals.ru/ru/p2-100-authors#bongiozzo[2023: Соавтор Open Source Текста]
+* https://text.sharedgoals.ru/p1-040-unhappiness#money_and_business[1997: Webzavod]
+* https://text.sharedgoals.ru/p1-040-unhappiness#money_and_enterprise[2007: Microsoft]
+* https://text.sharedgoals.ru/p2-180-sharedgoals#cross_culture_export[2016: Ростех – Russian IT Export]
+* https://text.sharedgoals.ru/p2-130-local#mini_app_vkontakte[2020: Цифровой Петербург]
+* https://text.sharedgoals.ru/[Что мне делать? :-)]
+* https://text.sharedgoals.ru/p2-100-authors#bongiozzo[2023: Соавтор Open Source Текста]
 
 [.notes]
 --
@@ -156,7 +156,7 @@ image::https://text.sharedgoals.ru/ru/img/qrchimpX256.png[]
 * ИИ: Отличный мотиватор!
 * Переизбыток информации
 * Что делать?
-* https://text.sharedgoals.ru/ru/p1-040-unhappiness#gadgets[Информационный поток]
+* https://text.sharedgoals.ru/p1-040-unhappiness#gadgets[Информационный поток]
 
 [.column.is-one-quarter]
 image::https://s1.livelib.ru/boocover/1002986342/o/3a01/Adam_Alter__Ne_otorvatsya_Pochemu_nash_mozg_lyubit_vsjo_novoe_i_tak_li_eto_horos.jpeg[]
@@ -177,12 +177,12 @@ image::https://s1.livelib.ru/boocover/1002986342/o/3a01/Adam_Alter__Ne_otorvatsy
 image::https://s1.livelib.ru/boocover/1001459912/o/cf2a/Nik_Bostrom__Iskusstvennyj_intellekt._Vozmozhnye_puti_opasnosti_i_strategii.jpeg[]
 
 [.column]
-* https://text.sharedgoals.ru/ru/p1-030-time#happy_tomorrow[2014: Ник Бостром]
-* https://text.sharedgoals.ru/ru/p1-030-time#happy_tomorrow[Решение широкого спектра задач]
+* https://text.sharedgoals.ru/p1-030-time#happy_tomorrow[2014: Ник Бостром]
+* https://text.sharedgoals.ru/p1-030-time#happy_tomorrow[Решение широкого спектра задач]
 * Быстрее, Шире и Глубже!
-* https://text.sharedgoals.ru/ru/p2-160-routine#brave_new_world[2027: «Удалёнщики» под угрозой]
-* https://text.sharedgoals.ru/ru/p2-160-routine#robots_in_spb[LLM + RPA «убивают» рутину]
-* https://text.sharedgoals.ru/ru/p2-160-routine#smart_assistants[Next: Large Actions Models]
+* https://text.sharedgoals.ru/p2-160-routine#brave_new_world[2027: «Удалёнщики» под угрозой]
+* https://text.sharedgoals.ru/p2-160-routine#robots_in_spb[LLM + RPA «убивают» рутину]
+* https://text.sharedgoals.ru/p2-160-routine#smart_assistants[Next: Large Actions Models]
 * ИИ: Эмоциональный интеллект!?
 
 [.notes]
@@ -223,12 +223,12 @@ RPA + LLM уже высвободили сотни тысяч часов сил�
 image::https://s1.livelib.ru/boocover/1001128870/o/47ab/__Strategicheskaya_psihologiya_globalizatsii._Psihologiya_chelovecheskogo_kapita.jpeg[]
 
 [.column]
-* https://text.sharedgoals.ru/ru/p2-130-local#mini_app_vkontakte[Диалог с петербуржцами]
-* https://text.sharedgoals.ru/ru/p1-010-happiness#happiness_model[Количественная модель счастья]
-* https://text.sharedgoals.ru/ru/p2-120-school#human_capital_book[4 типа мышления:]
-* https://text.sharedgoals.ru/ru/p2-120-school#psychology_of_mind[Разум]
-* https://text.sharedgoals.ru/ru/p2-120-school#psychology_of_will[Воля]
-* https://text.sharedgoals.ru/ru/p2-120-school#psychology_of_unconscious[Чувства]
+* https://text.sharedgoals.ru/p2-130-local#mini_app_vkontakte[Диалог с петербуржцами]
+* https://text.sharedgoals.ru/p1-010-happiness#happiness_model[Количественная модель счастья]
+* https://text.sharedgoals.ru/p2-120-school#human_capital_book[4 типа мышления:]
+* https://text.sharedgoals.ru/p2-120-school#psychology_of_mind[Разум]
+* https://text.sharedgoals.ru/p2-120-school#psychology_of_will[Воля]
+* https://text.sharedgoals.ru/p2-120-school#psychology_of_unconscious[Чувства]
 * и ...
 
 [.notes]
@@ -276,9 +276,9 @@ image::https://s1.livelib.ru/boocover/1005482422/o/c756/Viktor_Frankl__Skazat_zh
 
 [.column]
 * https://www.livelib.ru/review/4226059-skazat-zhizni-da-psiholog-v-kontslagere-sbornik-viktor-frankl[Книга номер 1 в Психологии]
-* https://text.sharedgoals.ru/ru/p2-120-school#psychology_of_belief[1947: Важность навыков Веры] 
-* https://text.sharedgoals.ru/ru/p2-120-school#idealization[1972: Идеализация как поправка]
-* https://text.sharedgoals.ru/ru/p2-110-system#successful_salesmen[Система координат для AGI]
+* https://text.sharedgoals.ru/p2-120-school#psychology_of_belief[1947: Важность навыков Веры] 
+* https://text.sharedgoals.ru/p2-120-school#idealization[1972: Идеализация как поправка]
+* https://text.sharedgoals.ru/p2-110-system#successful_salesmen[Система координат для AGI]
 * ИИ: Отрыв от реальности?
 
 [.notes]
@@ -311,13 +311,13 @@ image::https://s1.livelib.ru/boocover/1005482422/o/c756/Viktor_Frankl__Skazat_zh
 == Первые шаги
 
 [%step]
-* https://text.sharedgoals.ru/ru/p1-020-call#frequent_happiness[Заниматься любимым делом]
+* https://text.sharedgoals.ru/p1-020-call#frequent_happiness[Заниматься любимым делом]
 * Самому использовать ИИ 
-* https://text.sharedgoals.ru/ru/p2-200-text#asciidoc[Вместо Google/Wiki -> Perplexity]
-* https://text.sharedgoals.ru/ru/p2-160-routine#genai_in_business[«Сделай презентацию»]
+* https://text.sharedgoals.ru/p2-200-text#asciidoc[Вместо Google/Wiki -> Perplexity]
+* https://text.sharedgoals.ru/p2-160-routine#genai_in_business[«Сделай презентацию»]
 * https://www.perplexity.ai/search/software-development-company-w-ei1BhtSrQaCZ2KIiM_qgFQ[«Дай анализ», «Напиши стратегию»]
 * ИИ: Критическое мышление?
-* https://text.sharedgoals.ru/ru/p2-110-system#noble_curiosity[Проверять с любопытством! :-)]
+* https://text.sharedgoals.ru/p2-110-system#noble_curiosity[Проверять с любопытством! :-)]
 
 [.notes]
 --
@@ -336,11 +336,11 @@ image::https://s1.livelib.ru/boocover/1005482422/o/c756/Viktor_Frankl__Skazat_zh
 [%step]
 * «Джуны» не нужны – нужны «горящие» спецы
 * Ответственность равно Человек
-* https://text.sharedgoals.ru/ru/p2-180-sharedgoals#telegram_principles[Рабочая группа с ИИ-агентом в Telegram]
-* https://text.sharedgoals.ru/ru/p2-140-digital#continual_improvement[KPI руководителя: % рутины на ИИ]
-* https://text.sharedgoals.ru/ru/p2-170-opensource#freedom_of_choice[Open Source мультиагентная платформа]
+* https://text.sharedgoals.ru/p2-180-sharedgoals#telegram_principles[Рабочая группа с ИИ-агентом в Telegram]
+* https://text.sharedgoals.ru/p2-140-digital#continual_improvement[KPI руководителя: % рутины на ИИ]
+* https://text.sharedgoals.ru/p2-170-opensource#freedom_of_choice[Open Source мультиагентная платформа]
 * https://plan.aisa.ru/[Платформа] и https://shuttlelink.ru/aiexperts[Специалисты]
-* https://text.sharedgoals.ru/ru/p2-180-sharedgoals#ai_tool[Общие Цели – платформа сверхинтеллекта]
+* https://text.sharedgoals.ru/p2-180-sharedgoals#ai_tool[Общие Цели – платформа сверхинтеллекта]
 
 [.notes]
 --
@@ -357,7 +357,7 @@ image::https://s1.livelib.ru/boocover/1005482422/o/c756/Viktor_Frankl__Skazat_zh
 
 == Человеку Нужен Человек
 
-image::https://text.sharedgoals.ru/ru/img/solaris.jpg[link=https://text.sharedgoals.ru/ru/p2-110-system#larger_than_life,width=50%]
+image::https://text.sharedgoals.ru/img/solaris.jpg[link=https://text.sharedgoals.ru/p2-110-system#larger_than_life,width=50%]
 
 [.notes]
 --
